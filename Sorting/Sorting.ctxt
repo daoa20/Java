@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Sorting
+comment0.text=Creates\ the\ class\ for\ displaying\ the\ information\ to\ the\ user,\r\n\ declares\ the\ array\ to\ be\ used,\r\n\ it\ prints\ the\ array\ for\ the\ user\ to\ see\ it\ unsorted\ and\ then\ asks\r\n\ the\ user\ to\ select\ what\ type\ of\ sorting\ he\ or\ she\ wants\ to\ use.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
